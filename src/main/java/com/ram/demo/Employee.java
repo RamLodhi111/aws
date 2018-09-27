@@ -2,18 +2,18 @@ package com.ram.demo;
 
 public class Employee {
 
-	private String name;
+	private String names;
 
 	// age of employee 
 	private int age;
 	
 	
 	public String getName() {
-		return name;
+		return names;
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.names = name;
 	}
 
 	public int getAge() {
