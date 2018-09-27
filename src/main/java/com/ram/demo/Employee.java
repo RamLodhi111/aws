@@ -24,6 +24,12 @@ public class Employee {
 		this.age = age;
 	}
 
+	
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public Employee(String name, int age) {
 		super();
 		this.name = name;
