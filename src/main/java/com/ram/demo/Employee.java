@@ -4,7 +4,9 @@ public class Employee {
 
 	private String name;
 
+	// age of employee 
 	private int age;
+	
 	
 	public String getName() {
 		return name;
