@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         Employee employee = new Employee();
         
-        employee.setName("Ram Lodhi");
+        employee.setName("Ram Lodhi Updated in Amazon Linux Redhat");
         
         System.out.println(employee.getName());
     }
